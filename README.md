@@ -1,18 +1,23 @@
-# Hi, I'm Nandini 👋
+<h2 align="center">Hello there! 👋</h2>
 
-**Quantitative Developer at Multyfi**, building low-latency algorithmic trading infrastructure for Indian markets (MCX, NSE, BSE).
+<hr>
 
-### ⚡ What I work on
-- Distributed systems
-- Low-latency backends
-- Real-time data pipelines
-- Cloud & infrastructure
+<h1 align="center">I'm Nandini Jha</h1>
 
-### 🚧 Currently building
-**DevMind**, an agentic codebase copilot (LangGraph, hybrid search, sandboxed tool execution)
+<hr>
 
-### 🛠️ Tech stack
-`Node.js` `TypeScript` `Python` `ZeroMQ` `NATS` `Redis` `MongoDB` `PostgreSQL` `QuestDB` `gRPC` `LangGraph` `Docker` `AWS` `React` `Next.js`
+🔭 Quantitative Developer at Multyfi, building low-latency trading infrastructure.<br>
+💻 Node.js | TypeScript | Python | Redis | MongoDB | ZeroMQ | Docker | AWS<br>
+🌱 Currently exploring AI agents and distributed systems.
 
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/nandineey) · nandinijha1519@gmail.com
+<hr>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=nandineeyhub&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nandineeyhub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<hr>
