@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nandini 👋
 
-<!--
-**nandineeyhub/nandineeyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quantitative Developer at Multyfi**, building low-latency algorithmic trading infrastructure for Indian markets (MCX, NSE, BSE).
 
-Here are some ideas to get you started:
+### ⚡ What I work on
+- **Trading systems:** event-driven market data, strategy execution, pre-trade risk and order management
+- **Options risk:** multi-index, multi-leg VaR, hedge optimization and real-time MTM monitoring
+- **AI agents:** agentic RAG, LLM tool calling and evals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Currently building
+**DevMind**, an agentic codebase copilot (LangGraph, hybrid search, sandboxed tool execution)
+
+### 🛠️ Tech stack
+`Node.js` `TypeScript` `Python` `ZeroMQ` `NATS` `Redis` `MongoDB` `PostgreSQL` `QuestDB` `gRPC` `LangGraph` `Docker` `AWS` `React` `Next.js`
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/nandineey) · nandinijha1519@gmail.com
