@@ -3,9 +3,9 @@
 **Quantitative Developer at Multyfi**, building low-latency algorithmic trading infrastructure for Indian markets (MCX, NSE, BSE).
 
 ### ⚡ What I work on
-- **Trading systems:** event-driven market data, strategy execution, pre-trade risk and order management
-- **Options risk:** multi-index, multi-leg VaR, hedge optimization and real-time MTM monitoring
-- **AI agents:** agentic RAG, LLM tool calling and evals
+- **Distributed systems:** event-driven microservices communicating over ZeroMQ, NATS JetStream and gRPC
+- **Low-latency backends:** real-time data pipelines, streaming aggregation and sub-millisecond Redis + Lua services
+- **Reliability & infra:** atomic concurrency control, fault-tolerant failover, Docker and AWS deployments
 
 ### 🚧 Currently building
 **DevMind**, an agentic codebase copilot (LangGraph, hybrid search, sandboxed tool execution)
